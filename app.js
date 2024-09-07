@@ -39,7 +39,7 @@ function pesquisar() {
   }
 
   if(!resultados){
-    resultados = '<p></p>Informação não imprementada ainda ...</p><b></b><a href="https://www.wikipedia.org/">Experimente pesquisar na Wikipedia</a>';
+    resultados = '<p></p>Informação não implementada ainda ...</p><b></b><a href="https://www.wikipedia.org/">Experimente pesquisar na Wikipedia</a>';
     
   }
 
